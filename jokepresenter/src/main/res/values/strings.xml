@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Joke Presenter</string>
+    <string name="joke_header">%1$s Joke:</string>
+</resources>
